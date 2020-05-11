@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 0312b49c6f7b79c47be4e9e85d65dc96
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -5487534309568808589
+    second: Game_engine|Cube.002|Cube.002|Cube.001Action|Cube.002|Cube.001Action
+  - first:
+      74: 4707470829067111795
+    second: Game_engine|Cube.002|Cube.002|Cube.002Action|Cube.002|Cube.002Action
+  - first:
+      74: 1789905161312204962
+    second: Game_engine|Cube.002|Cube.002|Cube.004Action|Cube.002|Cube.004Action
+  - first:
+      74: -2877542827046780995
+    second: Game_engine|Cube.002|Cube.002|Gun_trigger|Cube.002|Gun_trigger
+  - first:
+      74: -4790165853172010097
+    second: Game_engine|Cube.002|Cube.002|muni_rot|Cube.002|muni_rot
+  - first:
+      74: 104109397779898513
+    second: Game_engine|Cube.002|Cube.002|muzzle fire|Cube.002|muzzle fire
+  - first:
+      74: -5402701255695763759
+    second: Game_engine|Cube.002|Cube.002|pistol slide|Cube.002|pistol slide
+  - first:
+      74: 7852962910069783092
+    second: Game_engine|Cube.005|Cube.005|Cube.001Action|Cube.005|Cube.001Action
+  - first:
+      74: -7196391099603610750
+    second: Game_engine|Cube.005|Cube.005|Cube.002Action|Cube.005|Cube.002Action
+  - first:
+      74: 4868669331294663119
+    second: Game_engine|Cube.005|Cube.005|Cube.004Action|Cube.005|Cube.004Action
+  - first:
+      74: 4535138224970137161
+    second: Game_engine|Cube.005|Cube.005|Gun_trigger|Cube.005|Gun_trigger
+  - first:
+      74: 7380391215802589379
+    second: Game_engine|Cube.005|Cube.005|muni_rot|Cube.005|muni_rot
+  - first:
+      74: 1786366918312645233
+    second: Game_engine|Cube.005|Cube.005|muzzle fire|Cube.005|muzzle fire
+  - first:
+      74: -296458164404512496
+    second: Game_engine|Cube.005|Cube.005|pistol slide|Cube.005|pistol slide
+  - first:
+      74: -8777438430771865240
+    second: Game_engine|Gun_trigger|Gun_trigger|Cube.001Action|Gun_trigger|Cube.001Acti
+  - first:
+      74: -342013556536533569
+    second: Game_engine|Gun_trigger|Gun_trigger|Cube.002Action|Gun_trigger|Cube.002Acti
+  - first:
+      74: 7051357250330221739
+    second: Game_engine|Gun_trigger|Gun_trigger|Cube.004Action|Gun_trigger|Cube.004Acti
+  - first:
+      74: 8209227106807774113
+    second: Game_engine|Gun_trigger|Gun_trigger|Gun_trigger|Gun_trigger|Gun_trigger
+  - first:
+      74: -4768724187827209718
+    second: Game_engine|Gun_trigger|Gun_trigger|muni_rot|Gun_trigger|muni_rot
+  - first:
+      74: -2262395093725994650
+    second: Game_engine|Gun_trigger|Gun_trigger|muzzle fire|Gun_trigger|muzzle fire
+  - first:
+      74: 2176614437428042836
+    second: Game_engine|Gun_trigger|Gun_trigger|pistol slide|Gun_trigger|pistol slide
+  - first:
+      74: -5435484613255546303
+    second: Game_engine|Gun|Gun|Cube.001Action|Gun|Cube.001Action
+  - first:
+      74: 2264822734784371985
+    second: Game_engine|Gun|Gun|Cube.002Action|Gun|Cube.002Action
+  - first:
+      74: -4856053679875535330
+    second: Game_engine|Gun|Gun|Cube.004Action|Gun|Cube.004Action
+  - first:
+      74: -8671990851341688264
+    second: Game_engine|Gun|Gun|Gun_trigger|Gun|Gun_trigger
+  - first:
+      74: 7346085266029199910
+    second: Game_engine|Gun|Gun|muni_rot|Gun|muni_rot
+  - first:
+      74: 5637695731583096005
+    second: Game_engine|Gun|Gun|muzzle fire|Gun|muzzle fire
+  - first:
+      74: 5058418234899972436
+    second: Game_engine|Gun|Gun|pistol slide|Gun|pistol slide
+  - first:
+      74: -3984411103079408234
+    second: Game_engine|move
+  - first:
+      74: -6092819501912703318
+    second: Game_engine|muni_rot|muni_rot|Cube.001Action|muni_rot|Cube.001Action
+  - first:
+      74: 566820276300140696
+    second: Game_engine|muni_rot|muni_rot|Cube.002Action|muni_rot|Cube.002Action
+  - first:
+      74: -7844466850668531700
+    second: Game_engine|muni_rot|muni_rot|Cube.004Action|muni_rot|Cube.004Action
+  - first:
+      74: -6199251373784676534
+    second: Game_engine|muni_rot|muni_rot|Gun_trigger|muni_rot|Gun_trigger
+  - first:
+      74: -4325438709415697396
+    second: Game_engine|muni_rot|muni_rot|muni_rot|muni_rot|muni_rot
+  - first:
+      74: 1284908347778721036
+    second: Game_engine|muni_rot|muni_rot|muzzle fire|muni_rot|muzzle fire
+  - first:
+      74: 3290441688809640989
+    second: Game_engine|muni_rot|muni_rot|pistol slide|muni_rot|pistol slide
+  - first:
+      74: 7873540060279248125
+    second: Game_engine|muzzle fire|muzzle fire|Cube.001Action|muzzle fire|Cube.001Acti
+  - first:
+      74: 3607426466936969577
+    second: Game_engine|muzzle fire|muzzle fire|Cube.002Action|muzzle fire|Cube.002Acti
+  - first:
+      74: 4328454979267020645
+    second: Game_engine|muzzle fire|muzzle fire|Cube.004Action|muzzle fire|Cube.004Acti
+  - first:
+      74: -8107565296625373896
+    second: Game_engine|muzzle fire|muzzle fire|Gun_trigger|muzzle fire|Gun_trigger
+  - first:
+      74: 6759986800637406209
+    second: Game_engine|muzzle fire|muzzle fire|muni_rot|muzzle fire|muni_rot
+  - first:
+      74: 1767129211636940986
+    second: Game_engine|muzzle fire|muzzle fire|muzzle fire|muzzle fire|muzzle fire
+  - first:
+      74: -6661799700806494631
+    second: Game_engine|muzzle fire|muzzle fire|pistol slide|muzzle fire|pistol slide
+  - first:
+      74: -7359507300896765784
+    second: Game_engine|t-pose
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Game_engine|move
+      takeName: Game_engine|move
+      internalID: 0
+      firstFrame: 4
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
